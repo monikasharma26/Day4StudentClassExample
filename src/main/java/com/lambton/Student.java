@@ -103,6 +103,8 @@ public class Student {
 
         //getAge();
 
+      // int x;
+       // System.out.println(x);  error   // variable must have to be initilized
     }
 
     private int calculateStudentAge() {
