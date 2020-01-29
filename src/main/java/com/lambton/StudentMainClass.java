@@ -33,6 +33,8 @@ public class StudentMainClass
            s.calculateResult();
            s.printData();
        }
+
+       Arithmetic a5 = new Arithmetic(4,9);
     }
 }
 
